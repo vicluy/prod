@@ -1,0 +1,6 @@
+name: nginx-prod
+scale: 5
+tag: "1.16"
+port: 80
+domain: prod.example.com
+ingressname: ingress-namebased-prod
